@@ -38,15 +38,6 @@ To view the histogram, follow these steps:
 
 ![Age Distribution Histogram](age_distribution_histogram.png)
 
-### Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-### License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 ### `plot_age_distribution.py` Script
 
